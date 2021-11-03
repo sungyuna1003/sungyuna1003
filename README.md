@@ -1,4 +1,4 @@
-### Hi there 👋 I'm *Junior front end developer* from 🇰🇷 !
+### Hi there 👋 I'm *Junior front end developer* from ###south korea !
 
 <!--
 **sungyuna1003/sungyuna1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
