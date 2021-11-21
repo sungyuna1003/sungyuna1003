@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-303f9f?style=flat&logo=JavaScript"/>
 <img src="https://img.shields.io/badge/-MySQL-ffee58?style=flat&logo=MySQL"/>
 
-**Tools**
+**Tools**  
 <img src="https://img.shields.io/badge/-Git-ff3d00?style=flat&logo=Git"/>
 <img src="https://img.shields.io/badge/-MySQL-ffee58?style=flat&logo=MySQL"/>
 <img src="https://img.shields.io/badge/-MySQL-ffee58?style=flat&logo=MySQL"/>
